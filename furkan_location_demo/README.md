@@ -45,3 +45,6 @@ Specify your API key in the application manifest android/app/src/main/AndroidMan
   <application ...
     <meta-data android:name="com.google.android.geo.API_KEY"
                android:value="YOUR KEY HERE"/>
+
+
+               
